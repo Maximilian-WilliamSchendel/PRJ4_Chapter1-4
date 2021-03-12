@@ -3,3 +3,4 @@ h2 {color: green; text-decoration: underline; font-size: 25px}
 	#my-id {background-color: purple; font-style: italic}
 	.my-class {text-align: center; margin-right: 10px; margin-left: 10px}
 	.my-container {border-style: solid; text-align: center;background-color: purple}
+	#my-id2 {background-color: purple; font-style: italic}
