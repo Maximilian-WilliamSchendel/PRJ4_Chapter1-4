@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 * { margin: 0; padding: 0; border: 0; font-size:100%; }
 h2 {color: green; text-decoration: underline; font-size: 25px}
 	#my-id {background-color: purple; font-style: italic}
