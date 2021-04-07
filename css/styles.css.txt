@@ -1,0 +1,6 @@
+* { margin: 0; padding: 0; border: 0; font-size:100%; }
+h2 {color: green; text-decoration: underline; font-size: 25px}
+	#my-id {background-color: purple; font-style: italic}
+	.my-class {text-align: center; margin: 10px 5px 10px 5px;}
+	.my-container {border-style: solid; text-align: center;background-color: purple}
+	#my-id2 {background-image: url("../images/3grapes.jpg"); font-style: italic; font-family: 'Redressed', cursive;}
